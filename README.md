@@ -1,4 +1,5 @@
-- 👋 Hi, I’m [@Jacky Weng](https://github.com/JackyWeng526)
+- 👋 Hi, this is the sharing for developing the Human-Oriented Sustainable Building Environment.
+- 👨‍💻 I’m [@Jacky Weng](https://github.com/JackyWeng526)
 - 👀 I’m interested in building environment control.
 - 🌱 I’m currently learning artificial intelligence technique for occupants' wellbeing and building operation.
 - 💞️ I’m looking to collaborate on any application fields related to building environment.
